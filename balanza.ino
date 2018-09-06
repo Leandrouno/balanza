@@ -1,4 +1,11 @@
-//https://naylampmechatronics.com/blog/25_tutorial-trasmisor-de-celda-de-carga-hx711-ba.html
+/*
+---------------------------------------------------------------------------------------
+Datos de Referencia :https://naylampmechatronics.com/blog/25_tutorial-trasmisor-de-celda-de-carga-hx711-ba.html
+Program Created  by @PablitoLesPaul & @Leandrouno
+Date : 01/09/2018
+--------------------------------------------------------------------------------------
+
+*/
 
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
