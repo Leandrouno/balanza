@@ -23,6 +23,7 @@ int esta_contando = 0, bandera_inicio = 0, guarda_peso = 0, apagado = 0;
 float peso = 0, peso_actual = 0, peso_anterior[]= {0,0,0}, peso_mostrar = 0;
 long anteriores = 0;
 LiquidCrystal_I2C lcd(0x3F,16,2); 
+//LiquidCrystal_I2C lcd(0x27,16,2); 
 
 void setup() {
               pinMode(SET,INPUT_PULLUP);
