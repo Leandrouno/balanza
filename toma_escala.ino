@@ -1,3 +1,4 @@
+// TOMADOR DE ESCALA
 #include "HX711.h"
 
 #define DOUT  A1
