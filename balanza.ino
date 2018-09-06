@@ -3,6 +3,7 @@
 Datos de Referencia :https://naylampmechatronics.com/blog/25_tutorial-trasmisor-de-celda-de-carga-hx711-ba.html
 Program Created  by @PablitoLesPaul & @Leandrouno
 Date : 01/09/2018
+Questions : pablo.asero@gmail.com
 --------------------------------------------------------------------------------------
 
 */
